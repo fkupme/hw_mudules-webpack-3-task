@@ -1,0 +1,27 @@
+{
+  "name": "hw_mudules-webpack",
+  "version": "1.0.0",
+  "description": "HomeWork",
+  "main": "index.js",
+  "scripts": {
+	"live": "http-server -p 8082",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkupme/hw_mudules-webpack.git"
+  },
+  "keywords": [
+    "homework",
+    "webpack"
+  ],
+  "author": "fkupme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkupme/hw_mudules-webpack/issues"
+  },
+  "homepage": "https://github.com/fkupme/hw_mudules-webpack#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
